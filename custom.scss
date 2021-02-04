@@ -1,0 +1,12 @@
+// Custom.scss
+// Option A: Include all of Bootstrap
+$theme-colors:(
+      "lg": #16871e,
+      "w": #FFFFFF
+);
+body {
+  font-family: 'Noto Sans', sans-serif;
+}
+
+
+@import "D:/test_web/Mywork/static/css/node_modules/bootstrap/scss/bootstrap";
